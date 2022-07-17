@@ -2,6 +2,10 @@
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xinlu.ink/tech/adobe-xd.html</loc>
+    <lastmod>2022-07-17</lastmod>
+  </url>
+  <url>
     <loc>https://xinlu.ink/tech/batch-in-action.html</loc>
     <lastmod>2022-07-17</lastmod>
   </url>
@@ -19,10 +23,6 @@
   </url>
   <url>
     <loc>https://xinlu.ink/tech/vue-architecture.html</loc>
-    <lastmod>2022-07-17</lastmod>
-  </url>
-  <url>
-    <loc>https://xinlu.ink/tech/adobe-xd.html</loc>
     <lastmod>2022-07-17</lastmod>
   </url>
 </urlset> 
