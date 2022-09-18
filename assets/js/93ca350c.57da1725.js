@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxiang_hong_ai=self.webpackChunkxiang_hong_ai||[]).push([[6476],{6734:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/editor","page":1,"postsPerPage":15,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

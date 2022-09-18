@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxiang_hong_ai=self.webpackChunkxiang_hong_ai||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"web","permalink":"/blog/tags/web","count":1},{"label":"editor","permalink":"/blog/tags/editor","count":1},{"label":"design","permalink":"/blog/tags/design","count":1}]')}}]);
