@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxiang_hong_ai=self.webpackChunkxiang_hong_ai||[]).push([[8736],{5707:n=>{n.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"batch-in-action"}')}}]);
