@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <clipPath id="clip-timeline-of-version-control-software-free-open-source">
+      <rect width="1200" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="timeline-of-version-control-software-free-open-source" clip-path="url(#clip-timeline-of-version-control-software-free-open-source)">
+    <rect width="1200" height="600" fill="#fff"/>
+    <path id="路径_91" data-name="路径 91" d="M994.4,244.6H39.2" transform="translate(82.8 21.8)" fill="none" stroke="#404040" stroke-miterlimit="10" stroke-width="4"/>
+    <circle id="椭圆_26" data-name="椭圆 26" cx="8" cy="8" r="8" transform="translate(138.7 258.1)" fill="#6bffd0" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_29" data-name="椭圆 29" cx="8" cy="8" r="8" transform="translate(249.7 258.1)" fill="#6bffd0" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_27" data-name="椭圆 27" cx="8" cy="8" r="8" transform="translate(291.4 258.5)" fill="#b18be8" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_28" data-name="椭圆 28" cx="8" cy="8" r="8" transform="translate(550.1 258.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_33" data-name="椭圆 33" cx="8" cy="8" r="8" transform="translate(613.2 258.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_31" data-name="椭圆 31" cx="8" cy="8" r="8" transform="translate(478.2 258.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_30" data-name="椭圆 30" cx="8" cy="8" r="8" transform="translate(490.4 258.5)" fill="#b18be8" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_34" data-name="椭圆 34" cx="8" cy="8" r="8" transform="translate(674.2 258.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="椭圆_32" data-name="椭圆 32" cx="8" cy="8" r="8" transform="translate(836.4 258.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="3"/>
+    <text id="SCCS" transform="translate(139.2 214)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SCCS</tspan></text>
+    <text id="RCS" transform="translate(250.2 214)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">RCS</tspan></text>
+    <text id="CVS" transform="translate(291.2 336)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CVS</tspan></text>
+    <text id="Subversion" transform="translate(478.2 214)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Subversion</tspan></text>
+    <text id="Mercurial" transform="translate(613.2 214)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Mercurial</tspan></text>
+    <text id="Git" transform="translate(613.2 158)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Git</tspan></text>
+    <text id="GNU_Bazaar" data-name="GNU Bazaar" transform="translate(613.2 102)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">GNU Bazaar</tspan></text>
+    <text id="BitKeeper" transform="translate(478.2 158)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">BitKeeper</tspan></text>
+    <text id="Monotone" transform="translate(550.2 458)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Monotone</tspan></text>
+    <text id="ArX" transform="translate(550.2 346)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">ArX</tspan></text>
+    <text id="Fossil" transform="translate(674.2 346)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Fossil</tspan></text>
+    <text id="Darcs" transform="translate(550.2 402)" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Darcs</tspan></text>
+    <text id="Breezy" transform="translate(836.2 214)" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Breezy</tspan></text>
+    <text id="Marc_J._Rochkind" data-name="Marc J. Rochkind" transform="translate(139.2 236)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Marc J. Rochkind</tspan></text>
+    <text id="Walter_F._Tichy" data-name="Walter F. Tichy" transform="translate(250.2 236)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Walter F. Tichy</tspan></text>
+    <text id="The_CVS_Team" data-name="The CVS Team" transform="translate(291.2 358)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">The CVS Team</tspan></text>
+    <text id="CollabNet_Inc." data-name="CollabNet Inc." transform="translate(478.2 236)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CollabNet Inc.</tspan></text>
+    <text id="Olivia_Mackall" data-name="Olivia Mackall" transform="translate(613.2 236)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Olivia Mackall</tspan></text>
+    <text id="Linus_Torvalds" data-name="Linus Torvalds" transform="translate(613.2 180)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Linus Torvalds</tspan></text>
+    <text id="Martin_Pool" data-name="Martin Pool" transform="translate(613.2 124)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Martin Pool</tspan></text>
+    <text id="BitMover_Inc." data-name="BitMover Inc." transform="translate(478.2 180)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">BitMover Inc.</tspan></text>
+    <text id="The_monotone_team" data-name="The monotone team" transform="translate(550.2 480)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">The monotone team</tspan></text>
+    <text id="Walter_Landry" data-name="Walter Landry" transform="translate(550.2 368)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Walter Landry</tspan></text>
+    <text id="D._Richard_Hipp" data-name="D. Richard Hipp" transform="translate(674.2 368)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">D. Richard Hipp</tspan></text>
+    <text id="David_Roundy" data-name="David Roundy" transform="translate(550.2 424)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">David Roundy</tspan></text>
+    <text id="Canonical_Bazaar_Breezy_community" data-name="Canonical,
+Bazaar/Breezy community" transform="translate(836.2 236)" fill="#2a2a2a" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Canonical,</tspan><tspan x="0" y="14">Bazaar/Breezy community</tspan></text>
+    <text id="_1973" data-name="1973" transform="translate(139.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">1973</tspan></text>
+    <text id="_1982" data-name="1982" transform="translate(250.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">1982</tspan></text>
+    <text id="_1986" data-name="1986" transform="translate(291.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">1986</tspan></text>
+    <text id="_2000" data-name="2000" transform="translate(481.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">2000</tspan></text>
+    <text id="_2003" data-name="2003" transform="translate(550.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">2003</tspan></text>
+    <text id="_2005" data-name="2005" transform="translate(613.3 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">2005</tspan></text>
+    <text id="_2007" data-name="2007" transform="translate(674.3 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">2007</tspan></text>
+    <text id="_2017" data-name="2017" transform="translate(836.2 296)" fill="#2a2a2a" font-size="12" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">2017</tspan></text>
+    <circle id="椭圆_35" data-name="椭圆 35" cx="5" cy="5" r="5" transform="translate(122 422.5)" fill="#6bffd0" stroke="#404040" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Local_only" data-name="Local only" transform="translate(141.5 431)" fill="#2a2a2a" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Local only</tspan></text>
+    <circle id="椭圆_36" data-name="椭圆 36" cx="5" cy="5" r="5" transform="translate(122.5 450.5)" fill="#b18be8" stroke="#404040" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Client_server" data-name="Client–server" transform="translate(141.5 460)" fill="#2a2a2a" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Client–server</tspan></text>
+    <circle id="椭圆_37" data-name="椭圆 37" cx="5" cy="5" r="5" transform="translate(122.5 480.5)" fill="#1aff00" stroke="#404040" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Distributed" transform="translate(141.5 489)" fill="#2a2a2a" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Distributed</tspan></text>
+  </g>
+</svg>
